@@ -1,0 +1,5 @@
+sara|Push-ups;15;2025-09-19;105,Running;30;2025-09-19;345,Plank;10;2025-09-21;35
+rania|
+rania|
+dina|Running;30;2025-09-19;345
+sama|Squats;45;2025-09-20;360,Jumping Jacks;50;2025-09-23;500,Plank;12;2025-09-18;42
